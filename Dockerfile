@@ -1,5 +1,5 @@
 # Use the official Flowise image from Docker Hub
-FROM flowise/flowise:latest
+FROM flowiseai/flowise:latest
 
 # Expose the default port (required by Railway)
 EXPOSE 3000
