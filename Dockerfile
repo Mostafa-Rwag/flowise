@@ -6,4 +6,4 @@ WORKDIR /app
 
 EXPOSE 3000
 
-CMD ["cmd", "start"]
+CMD ["npm", "start"]
